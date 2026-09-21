@@ -1,32 +1,42 @@
-# DocuMind - Simple Complete Project
+# DocuMind - AI-Powered Document Retrieval System
 
-## Backend
-```bash
-cd backend
-python -m venv venv
-venv\Scripts\activate
-pip install -r requirements.txt
-uvicorn main:app --reload
-```
+DocuMind is a full-stack document retrieval system that allows users to upload, search, view, and manage documents through a simple web interface.
 
-## Frontend
-Open another terminal:
-```bash
-cd frontend
-npm install
-npm run dev
-```
+The system supports keyword-based, semantic, and hybrid retrieval internally, while providing the user with a single **Best Match** search interface.
 
-Backend: http://127.0.0.1:8000
-Frontend: http://localhost:5173
+## Features
 
-Supported files: TXT, PDF, DOCX.
+- Upload TXT, PDF, and DOCX documents
+- Search documents using natural-language queries
+- Hybrid search combining keyword and semantic similarity
+- Relevance-based search results
+- Document preview and viewing
+- Search history
+- Document management and deletion
+- Dashboard with document and search statistics
+- SQLite database for simple local setup
+- React-based frontend
+- FastAPI backend
 
-The app has ONE main search interface. The top navigation does not contain another search box.
+## Project Structure
 
-User-friendly search names:
-- Best match = Hybrid search
-- Search by meaning = Semantic search
-- Exact words = Keyword search
-
-SQLite is used to keep setup simple.
+```text
+DocuMind/
+│
+├── backend/
+│   ├── main.py
+│   ├── requirements.txt
+│   └── ...
+│
+├── frontend/
+│   ├── package.json
+│   ├── vite.config.js
+│   ├── index.html
+│   └── src/
+│       ├── App.jsx
+│       ├── api.js
+│       ├── index.css
+│       └── main.jsx
+│
+├── .gitignore
+└── README.md
