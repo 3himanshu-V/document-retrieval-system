@@ -1,6 +1,6 @@
-# DocuMind - AI-Powered Document Retrieval System
+AI-Powered Document Retrieval System
 
-DocuMind is a full-stack document retrieval system that allows users to upload, search, view, and manage documents through a simple web interface.
+This is a full-stack document retrieval system that allows users to upload, search, view, and manage documents through a simple web interface.
 
 The system supports keyword-based, semantic, and hybrid retrieval internally, while providing the user with a single **Best Match** search interface.
 
