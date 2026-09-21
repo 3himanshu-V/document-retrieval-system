@@ -1,0 +1,15 @@
+AI and Machine Learning
+
+Artificial Intelligence is a field of computer science that focuses on creating systems capable of performing tasks that normally require human intelligence.
+
+Machine learning is a subset of artificial intelligence that allows computers to learn patterns from data without being explicitly programmed for every task.
+
+Natural Language Processing enables computers to understand, process, and analyze human language. Common NLP techniques include tokenization, stemming, lemmatization, stop-word removal, and text vectorization.
+
+Document retrieval systems use information retrieval techniques to find relevant documents based on a user's query. Traditional retrieval methods such as TF-IDF measure the importance of words within documents.
+
+Semantic search goes beyond exact keyword matching. It uses text embeddings to understand the meaning of a query and compare it with the meaning of document passages.
+
+Vector databases and similarity search algorithms can efficiently identify documents that are semantically similar to a user's query.
+
+A hybrid retrieval system combines keyword-based retrieval and semantic retrieval to improve search accuracy and provide more relevant results.

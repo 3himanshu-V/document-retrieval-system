@@ -1,0 +1,17 @@
+Database Management Systems
+
+A database management system is software used to store, organize, retrieve, and manage data.
+
+SQL is a language used to communicate with relational databases.
+
+The SELECT statement retrieves data from a database. The WHERE clause filters rows according to a condition.
+
+The GROUP BY clause groups rows that have the same values. Aggregate functions such as COUNT, SUM, AVG, MIN, and MAX can be used with grouped data.
+
+A primary key uniquely identifies a record in a table.
+
+A foreign key creates a relationship between records in different tables.
+
+Database normalization reduces unnecessary duplication of data and improves data consistency.
+
+Indexes can improve the speed of database queries, especially when searching large tables.

@@ -1,0 +1,15 @@
+Artificial Intelligence and Machine Learning
+
+Artificial Intelligence (AI) is the field of computer science concerned with creating systems that can perform tasks that normally require human intelligence.
+
+Machine Learning (ML) is a branch of artificial intelligence where computers learn patterns from data instead of being explicitly programmed for every task.
+
+Supervised learning uses labeled training data. Common supervised learning algorithms include linear regression, logistic regression, decision trees, random forests, and support vector machines.
+
+Unsupervised learning works with unlabeled data. Clustering is a common example, and K-Means is one of the most widely used clustering algorithms.
+
+Deep Learning is a subset of machine learning that uses neural networks with multiple layers. Convolutional Neural Networks are commonly used for image-related tasks.
+
+Natural Language Processing allows computers to work with human language. It is used for text classification, sentiment analysis, translation, and document retrieval.
+
+Document retrieval systems help users find relevant information from a collection of documents. Keyword search looks for matching words, while semantic search attempts to find information with similar meaning.

@@ -1,0 +1,9 @@
+fastapi
+hypercorn
+sqlalchemy
+python-multipart
+numpy
+scikit-learn
+sentence-transformers
+pypdf
+python-docx

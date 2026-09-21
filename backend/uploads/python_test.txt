@@ -1,0 +1,13 @@
+Python Programming
+
+Python is a high-level programming language known for its simple syntax and readability.
+
+Python is widely used in data science, machine learning, web development, automation, and scientific computing.
+
+Lists are ordered and mutable collections. Tuples are ordered but immutable. Dictionaries store data as key-value pairs.
+
+A Python function is defined using the def keyword. Functions help organize code into reusable blocks.
+
+Pandas is commonly used for data manipulation and analysis. NumPy provides support for numerical operations and arrays.
+
+Scikit-learn provides many machine learning algorithms including classification, regression, clustering, and preprocessing techniques.
